@@ -8,8 +8,8 @@ Assignment 3: Implement synchronization using conditional variables and semaphor
 
 Done in a team of 4:
 ## Group Details
-| Name | Github | 
-| --- | --- | --- |
+|Name |Github | 
+| --- | --- | 
 |L Gokulnath | [lgokulnath](https://github.com/lgokulnath)
 |Harsh Trivedi | [harsh500](https://github.com/harsh500)
 |Ujwal Jyot Panda | [ujwaljp](https://github.com/ujwaljp)
