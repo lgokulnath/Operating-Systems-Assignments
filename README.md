@@ -6,6 +6,8 @@ Assignment 2: Compare performance of scheduling algorithms (FCFS, round robin, S
 
 Assignment 3: Implement synchronization using conditional variables and semaphores and use them in Barrier problem and Multiple Producer Multiple Consumer Bounded Buffer problem.
 
+Detailed reports are in the respective assignment folders.
+
 Done in a team of 4:
 ## Group Details
 |Name |Github | 
